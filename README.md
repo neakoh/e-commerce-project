@@ -4,14 +4,14 @@ A full stack e-commerce application built to liquidate dead stock for a local bu
 
 
 <div align="center">
-  <img src="./images/tech-logos/Vite.js.png" alt="Vite" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/tech-logos/Tailwind CSS.png" alt="Tailwind" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/tech-logos/JavaScript.png" alt="JavaScript" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/tech-logos/HTML5.png" alt="HTML5" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/tech-logos/stripe.png" alt="Stripe" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/tech-logos/AWS.png" alt="AWS" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/tech-logos/HashiCorp Terraform.png" alt="Terraform" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/tech-logos/Grafana.png" alt="Grafana" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/tech-logos/Vite.js.png" alt="Vite" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/tech-logos/Tailwind CSS.png" alt="Tailwind" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/tech-logos/JavaScript.png" alt="JavaScript" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/tech-logos/HTML5.png" alt="HTML5" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/tech-logos/stripe.png" alt="Stripe" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/tech-logos/AWS.png" alt="AWS" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/tech-logos/HashiCorp Terraform.png" alt="Terraform" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/tech-logos/Grafana.png" alt="Grafana" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./images/tech-logos/Prometheus.png" alt="Prometheus" height="60"/>
 </div>
 
