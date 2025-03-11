@@ -35,7 +35,3 @@ module "your_cloudfront_distribution" {
     Environment = "prod"
   }
 }
-
-output "cloudfront_id" {
-  value = module.cdn.cloudfront_distribution_id
-}

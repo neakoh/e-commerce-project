@@ -2,7 +2,7 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const db = require('../config/db');
 const { schema, changePasswordSchema } = require('../config/joischemas')
-const { JWT_SECRET } = require('../config/jwt');
+const { getJWTSecret } = require('../config/jwt');
 
 class AccountService {
     async register(firstname, lastname, email, password) {
@@ -29,7 +29,8 @@ class AccountService {
             role: result.rows[0].role 
         };
         
-        const token = jwt.sign(user, JWT_SECRET, { expiresIn: '1h' });
+        const secret = await getJWTSecret();
+        const token = jwt.sign(user, secret, { expiresIn: '1h' });
         
         return { 
             token, 
@@ -58,7 +59,8 @@ class AccountService {
             firstname: result.rows[0].firstname,
         };
         
-        const token = jwt.sign(user, JWT_SECRET, { expiresIn: '1h' });
+        const secret = await getJWTSecret();
+        const token = jwt.sign(user, secret, { expiresIn: '1h' });
 
         return { token, user };
     }
