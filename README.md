@@ -3,16 +3,16 @@
 A full stack e-commerce application built to liquidate dead stock for a local business. The application integrates with **Stripe's API** for secure payment processing and features comprehensive user management and inventory tracking systems. It is then hosted on **AWS** and deployed with **Terraform**. Several metrics are shipped to **Grafana cloud** to provide insights into the system, and application's health.
 
 
-<div align="center">
-  <img src="./images/tech-logos/Vite.js.png" alt="AWS" height="60" style="margin: 0 20px"/>
-  <img src="./images/tech-logos/Tailwind CSS.png" alt="Terraform" height="60" style="margin: 0 20px"/>
-  <img src="./images/tech-logos/JavaScript.png" alt="Stripe" height="60" style="margin: 0 20px"/>
-  <img src="./images/tech-logos/HTML5.png" alt="Stripe" height="60" style="margin: 0 20px"/>
-  <img src="./images/tech-logos/stripe.png" alt="Stripe" height="60" style="margin: 0 20px"/>
-  <img src="./images/tech-logos/AWS.png" alt="AWS" height="60" style="margin: 0 20px"/>
-  <img src="./images/tech-logos/HashiCorp Terraform.png" alt="Terraform" height="60" style="margin: 0 20px"/>
-  <img src="./images/tech-logos/Grafana.png" alt="Grafana" height="60" style="margin: 0 20px"/>
-  <img src="./images/tech-logos/Prometheus.png" alt="Prometheus" height="60" style="margin: 0 20px"/>
+<div style="display: grid; grid-template-columns: repeat(9, 1fr); gap: 10px; align-items: center; justify-items: center;">
+  <img src="./images/tech-logos/Vite.js.png" alt="Vite" height="60"/>
+  <img src="./images/tech-logos/Tailwind CSS.png" alt="Tailwind" height="60"/>
+  <img src="./images/tech-logos/JavaScript.png" alt="JavaScript" height="60"/>
+  <img src="./images/tech-logos/HTML5.png" alt="HTML5" height="60"/>
+  <img src="./images/tech-logos/stripe.png" alt="Stripe" height="60"/>
+  <img src="./images/tech-logos/AWS.png" alt="AWS" height="60"/>
+  <img src="./images/tech-logos/HashiCorp Terraform.png" alt="Terraform" height="60"/>
+  <img src="./images/tech-logos/Grafana.png" alt="Grafana" height="60"/>
+  <img src="./images/tech-logos/Prometheus.png" alt="Prometheus" height="60"/>
 </div>
 
 ## Infrastructure Diagram
