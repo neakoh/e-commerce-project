@@ -44,7 +44,7 @@ This set-up previously made use of endpoints however since a NAT gateway was req
 
   * Frontend hosted via **S3 Static**, **Route53** & **Cloudfront**.
   * Secured with **WAF** using the following rules: 
-    * **AWS Common Rule Set**.
+    * AWS Common Rule Set.
     * SQL Injection Protection.
     * Known Bad Inputs.
     * Rate Limiting.
